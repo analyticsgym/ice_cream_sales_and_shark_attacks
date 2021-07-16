@@ -1,6 +1,8 @@
 # Ice Cream Sales and Shark Attacks
 The number of pairwise correlations rapidly increases as numeric variables get added to a dataset.
 
+![alt text](https://github.com/analyticsanalyst/ice_cream_sales_and_shark_attacks/blob/main/Figs/pairwise_correlations.png?raw=true)
+
 It’s common in exploratory analysis to plot simple correlations to see how variables move together. 
 
 Warning: be careful presenting simple correlations to business stakeholders.
@@ -17,5 +19,6 @@ Give business stakeholders a visual example to act as a rage-to-conclude warning
 
 Use correlations to inspire further investigation and analysis vs. making strong claims right out of the gate.
 
+![alt text](https://github.com/analyticsanalyst/ice_cream_sales_and_shark_attacks/blob/main/Figs/ice_cream_and_shark_attacks.png?raw=true)
 
 The above is a typical example from introductory statistics textbooks.
