@@ -22,3 +22,5 @@ Use correlations to inspire further investigation and analysis vs. making strong
 ![alt text](https://github.com/analyticsanalyst/ice_cream_sales_and_shark_attacks/blob/main/Figs/ice_cream_and_shark_attacks.png?raw=true)
 
 The above is a typical example from introductory statistics textbooks.
+
+See [Spurious Correlations by Tyle Vigen](https://tylervigen.com/spurious-correlations) for additional examples.
